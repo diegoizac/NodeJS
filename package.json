@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Curso NodeJS - Alura/Casa do Código (Node.js Parte 1: Inovando com JavaScript no backend)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegoizac/NodeJS.git"
+  },
+  "author": "Diego Izac Luis da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegoizac/NodeJS/issues"
+  },
+  "homepage": "https://github.com/diegoizac/NodeJS#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
